@@ -1,4 +1,4 @@
 # apnacollegedemo
-my first git reporsiteries
-<Br>
-Author-jaanhavi lalingkar
+my first git reporsiteries <Br> author-jaanhavi lalingkar
+
+
